@@ -1,5 +1,4 @@
 # Udacity-projects
-Projects I completed in the Machine Learning Engineer Nanodegree program
 
 These projects were completed as part of the Udacity Machine Learning Engineer Nanodegree program.  
 
